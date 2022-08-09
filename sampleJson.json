@@ -1,0 +1,16 @@
+{
+  "student": [ 
+	
+     { 
+        "profile-img":"01", 
+        "profile-name": "Tom", 
+        "department": "Price" 
+     }, 
+	
+     { 
+        "profile-img":"02", 
+        "profile-name": "Nick", 
+        "department": "Thameson" 
+     } 
+  ]   
+}
